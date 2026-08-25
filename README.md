@@ -16,11 +16,14 @@ pip install -r requirements.txt
 
 ## Pretrained Weights
 
-The pretrained model weights are hosted on Zenodo for permanent archival access.
+The pretrained model weights are hosted anonymously on Google Drive to maintain double-blind peer review integrity.
 
 ### Wuderpus_weights
 
-The pretrained weights will be made available through Zenodo at the permanent artifact DOI.
+You can download the pretrained weights from the following link:
+[Anonymous Google Drive Link: Wuderpus_weights](https://drive.google.com/drive/folders/1nTqhsd3aShcUEpwNiGgWw_iWyzZa08fI)
+
+The downloaded archive should be extracted as:
 
 The downloaded archive should be extracted as:
 
