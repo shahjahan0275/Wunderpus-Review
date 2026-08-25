@@ -13,6 +13,9 @@ If package conflicts occur:
 ```bash
 pip install -r requirements.txt
 ```
+### Important Note About File Paths
+
+The codebase was developed and evaluated across multiple HPC clusters and local machines. Therefore, some dataset paths, checkpoint paths, and output directories in the source code may still contain the original absolute paths used during our experiments.Please update these paths according to your local system or computing environment before running the code.
 
 ## Pretrained Weights
 
