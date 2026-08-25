@@ -25,8 +25,6 @@ You can download the pretrained weights from the following link:
 
 The downloaded archive should be extracted as:
 
-The downloaded archive should be extracted as:
-
 Wuderpus_weights/
 
 Pretrained weights necessary to run the code should be downloaded from the Zenodo link above and placed in the respective folders as follows.
